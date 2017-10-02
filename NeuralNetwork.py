@@ -4,7 +4,7 @@ This module implements a simple, yet, powerful neural network.
 For the implementation of the neural network I use a Multilayer Perceptron.
 The activation function is the following sigmoid function - f(x) = 1/(1 + exp(-x))
 
-This implementation uses 4 layers: 1 Input Layer, 1 Hidden Layer (4 neurons) and 1 Output Layer
+This implementation uses 3 layers: 1 Input Layer, 1 Hidden Layer (4 neurons) and 1 Output Layer
 """
 
 import numpy
